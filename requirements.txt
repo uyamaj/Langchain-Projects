@@ -31,3 +31,4 @@ numexpr
 huggingface_hub
 langchain_nvidia_ai_endpoints
 pymysql
+transformers

@@ -1,4 +1,4 @@
-# LangChain Projects
+# Langchain Projects
 
 A collection of projects exploring LangChain for building LLM-powered applications — 
 covering retrieval-augmented generation (RAG), chatbots, agents, text summarization, 
